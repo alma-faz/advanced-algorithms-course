@@ -1,1 +1,1 @@
-# Projects from the course of Advanced Algorithms taught at Univeristy of Prishtina.
+### Projects from the course of Advanced Algorithms taught at Univeristy of Prishtina.
